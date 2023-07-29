@@ -1,0 +1,271 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+body {
+  font-family: 'Muli', sans-serif;
+  background-color: #F5F4FC;
+}
+
+
+.projetos{
+  background-color: #F5F4FC;
+  padding-top: 10%;
+  margin-bottom: 10%;
+  padding-bottom: 5%;
+  margin-top: 0%;
+  text-align: center;
+}
+
+
+.projetos h1{
+  margin: 0 0 20px 0;
+  color: #255475;
+  font-size: 3.5vw;
+  font-weight: bold;
+  font-size: 2vw;
+}
+
+.projetos h4{
+  margin: 0 0 20px 0;
+  color: #255475;
+  font-size: 3.5vw;
+  font-weight: bold;
+  font-size: 1vw;
+
+}
+
+
+
+
+.principal p {
+  color: #706767;
+  text-align: left;
+  font-size: 1vw;
+}
+
+.principal .subtitulo{
+  font-size: 1.5vw; 
+  color: black;
+}
+
+.principal span {
+  color: #706767;
+  text-align: left;
+  font-size: 1vw;
+  margin-top: 10vw;
+}
+
+
+.principal h1 {
+  margin-bottom: 0vw;
+
+}
+
+
+.principal .titulo {
+  color: #255475;
+  font-size: 1.4vw;
+  margin-bottom: 1.4vw;
+  margin-top: 1.4vw;
+  font-weight: bold;
+}
+
+.principal .itemCarreira {
+  color: #255475;
+  font-size: 1.1vw;
+  margin-bottom: 0vw;
+  margin-top: 1.4vw;
+  font-weight: bold;
+}
+
+.lateral {
+  margin-top: 20%;
+  margin-left: 3vw;
+}
+
+
+
+.lateral p {
+  color: black;
+  text-align: left;
+  font-size: 0.9vw;
+  margin-bottom: 0vw;
+}
+
+.lateral .azul {
+  color: #255475;
+  font-size: 0.9vw;
+  margin-bottom: 0vw;
+}
+
+
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin-right: 20px; /* Espaço entre os itens */
+}
+
+
+.lateral .titulo {
+  color: #255475;
+  font-size: 1.1vw;
+  margin-bottom: 0vw;
+  margin-top: 1.4vw;
+  font-weight: bold;
+}
+
+h3 {
+  color: #F5F4FC;
+}
+
+
+h4 {
+  color: #F5F4FC;
+}
+
+hr {
+  color: black;
+}
+
+
+h1 {
+  margin: 0 0 20px 0;
+  color: #255475;
+  font-size: 3.5vw;
+  font-weight: bold;
+}
+
+
+
+.corpoCurriculoImprimir{
+  font-size: 200px;
+  background-color: #F5F4FC;
+}
+
+
+@media screen and (max-width: 700px) {
+
+  
+
+  .corpoCurriculo {
+    background-color: aliceblue;
+  }
+  
+  
+  .principal p {
+    color: #706767;
+    text-align: left;
+    font-size: 4vw;
+  }
+  
+  .principal span {
+    color: #706767;
+    text-align: left;
+    font-size: 4vw;
+    margin-top: 10vw;
+  }
+  
+  
+  .principal h1 {
+    margin-bottom: 0vw;
+    font-size: 10vw;
+  
+  }
+  
+  
+  .principal .titulo {
+    color: #255475;
+    font-size: 6vw;
+    margin-bottom: 1.4vw;
+    margin-top: 1.4vw;
+    font-weight: bold;
+  }
+  
+  .principal .itemCarreira {
+    color: #255475;
+    font-size: 4vw;
+    margin-bottom: 0vw;
+    margin-top: 1.4vw;
+    font-weight: bold;
+  }
+  
+  .lateral {
+    margin-top: 20%;
+    margin-left: 3vw;
+  }
+  
+  
+  
+  .lateral p {
+    color: black;
+    text-align: left;
+    font-size: 4vw;
+    margin-bottom: 0vw;
+  }
+  
+  .lateral .azul {
+    color: #255475;
+    font-size: 4vw;
+    margin-bottom: 0vw;
+  }
+  
+  .principal .subtitulo{
+    font-size: 5vw; 
+    color: black;
+  }
+  
+  ul {
+    color: #706767;
+    font-size: 3vw;
+    margin-bottom: 0vw;
+    
+  }
+  
+  li {
+    margin-top: 0.2vw;
+    display: inline-block;
+
+  }
+  
+  
+  .lateral .titulo {
+    color: #255475;
+    font-size: 4vw;
+    margin-bottom: 0vw;
+    margin-top: 1.4vw;
+    font-weight: bold;
+  }
+  
+  h3 {
+    color: #F5F4FC;
+    font-size: 10vw;
+  }
+  
+  
+  h4 {
+    color: #F5F4FC;
+    font-size: 10vw;
+
+  }
+  
+  hr {
+    color: black;
+  }
+  
+  
+  h1 {
+    margin: 0 0 20px 0;
+    color: #255475;
+    font-size: 3.5vw;
+    font-weight: bold;
+    font-size: 10vw;
+
+  }
+  
+
+}
+
