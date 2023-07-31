@@ -40,6 +40,17 @@ a{
 
 
 
+
+p {
+  color: #706767;
+  text-align: left;
+  font-size: 1vw;
+
+}
+
+
+
+
 .principal p {
   color: #706767;
   text-align: left;
@@ -101,7 +112,9 @@ a{
   margin-bottom: 0vw;
 }
 
-
+.imagemProjeto{
+  width: vw;
+}
 
 .cardProjetos ul {
   list-style-type: none;
