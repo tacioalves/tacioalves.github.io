@@ -5,6 +5,10 @@ body {
   background-color: #F5F4FC;
 }
 
+a{
+  text-decoration:none;
+
+}
 
 .projetos{
   background-color: #F5F4FC;
@@ -99,12 +103,12 @@ body {
 
 
 
-ul {
+.cardProjetos ul {
   list-style-type: none;
   padding: 0;
 }
 
-li {
+.cardProjetos li {
   display: inline-block;
   margin-right: 20px; /* Espaço entre os itens */
 }
